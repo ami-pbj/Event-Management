@@ -1,6 +1,8 @@
 # Event-Management
 A Figma design layout for Even Management application.
 
+Figma Comunity Layout Link : https://www.figma.com/community/file/1212867732439119592
+
 **Home :**
 
 ![image](https://user-images.githubusercontent.com/95628601/227127632-d2882f63-0078-405d-854e-2b75107e6c1c.png)
